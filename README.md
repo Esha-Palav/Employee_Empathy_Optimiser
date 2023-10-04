@@ -10,8 +10,8 @@ Data processing (pre-processing, emotion annotation)
 Experiments (Feature extraction, Classification)
 We have used R to test, train and code our API. Tableau is used for daily visualization reporting to the top management.
 # Goals Reviewed
-Employee Satisfaction
-Flexible management
-Motivated Team
-Better Brain Storming Sessions
-Weekly Kabala meetups ( Social get together where discussions points are not work related)
+1. Employee Satisfaction
+2. Flexible management
+3. Motivated Team
+4. Better Brain Storming Sessions
+5. Weekly Kabala meetups ( Social get together where discussions points are not work related)
